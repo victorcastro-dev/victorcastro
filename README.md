@@ -1,50 +1,49 @@
-<h1 align="center">Olá! Eu sou o Victor Castro 👋</h1>
+<h1 align="center">Hi there! I'm Victor Castro 👋</h1>
 
 <p align="center">
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (último semestre)<br>
-🚀 Em busca da minha primeira oportunidade na área de tecnologia<br>
-💡 Explorando o mundo do desenvolvimento e design com foco em aprendizado contínuo
+🎓 Final-year student in Systems Analysis and Development<br>
+🚀 Looking for my first opportunity in the tech industry<br>
+💡 Exploring web development and UI/UX design while focusing on continuous learning
 </p>
 
 ---
 
-### 🧠 Conhecimentos
+### 🧠 Skills & Knowledge
 
-- Linguagem C
+- C Programming
 - C# (.NET)
 - SQL Server Management Studio
 - HTML & CSS
 - JavaScript
-- Figma (prototipação e design de interfaces)
+- Figma (UI/UX and Prototyping)
 
 ---
 
-### 💼 Sobre mim
+### 💼 About Me
 
-Atualmente no último semestre da faculdade de Análise e Desenvolvimento de Sistemas, estou me dedicando a aprender e praticar desenvolvimento web, programação e banco de dados. Tenho interesse tanto no desenvolvimento de software quanto no design de interfaces e estou em busca da **minha primeira oportunidade profissional na área de TI**.
+I'm currently in my final semester of Systems Analysis and Development. I'm passionate about technology and constantly learning new skills in software development and UI/UX design.
 
-Sou motivado por desafios, aprendizado constante e vontade de evoluir como profissional. Estou desenvolvendo projetos pessoais para colocar em prática os conhecimentos que venho adquirindo.
-
----
-
-### 🌱 Projetos em construção
-
-> *(Em breve vou publicar meus primeiros repositórios com foco em front-end e back-end)*
-
-- Portfólio pessoal com HTML, CSS e JS
-- CRUD simples com C# e SQL Server
-- Protótipos de telas com Figma
+Right now, I'm focused on improving my web development skills and working on personal projects to build my portfolio. I'm actively seeking my **first professional opportunity** in the tech field, where I can grow and contribute.
 
 ---
 
-### 📫 Contato
+### 🌱 Projects in Progress
+
+> *(Soon I'll be uploading my first repositories with a focus on front-end and back-end development)*
+
+- Personal portfolio using HTML, CSS, and JS
+- Basic CRUD app with C# and SQL Server
+- UI prototypes created with Figma
+
+---
+
+### 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/victor-castro-de-souza-266b792b3/)
 [![Email](https://img.shields.io/badge/Email-victor.souza092005@gmail.com-blue)](mailto:victor.souza092005@gmail.com)
 
 ---
 
-### ⚡ Curiosidade
+### ⚡ Fun Fact
 
-Estou sempre buscando aprender algo novo — seja uma linguagem de programação, uma ferramenta de design ou uma nova forma de pensar tecnologia!
-
+I’m always curious and motivated to learn something new — whether it's a programming language, a design tool, or a different way of solving problems!
